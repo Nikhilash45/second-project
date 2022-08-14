@@ -1,0 +1,16 @@
+img{
+  border-image-width: 40px;
+  border-color: white;
+  border-radius: 100%;
+}
+  body{
+    background-color: orange;
+  }
+  hr{
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 4px;
+    width: 10%;
+ border-color: yellow;
+
+  }
